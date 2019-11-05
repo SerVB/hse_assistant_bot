@@ -18,6 +18,7 @@
 :rat:
 
  ### Кот
-![recent-stat-markers](1494592816133830021.jpg)
+![recent-stat-markers](screenshots/kot.jpg)
   
 сори что засрал папку, не понял как создать новую, а также как переименовать файл
+  
