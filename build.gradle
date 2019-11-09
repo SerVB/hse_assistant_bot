@@ -62,3 +62,9 @@ compileTestKotlin {
         jvmTarget = "1.8"
     }
 }
+
+test {
+    testLogging {
+        exceptionFormat = 'full'
+    }
+}
