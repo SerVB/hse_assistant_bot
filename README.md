@@ -1,5 +1,5 @@
 # hse_ruz_schedule_bot
-
+[![Build status](https://github.com/SerVB/hse_assistant_bot/workflows/tests/badge.svg)](https://github.com/SerVB/hse_assistant_bot/actions)
 
 Неработающая хня, пишется дуриком, ничего не работает, смотрю как делать риадми  как делать энтер я не понимать  о, понимать,  
 но как то не оч  
