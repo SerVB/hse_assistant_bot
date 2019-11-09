@@ -1,0 +1,16 @@
+name: tests
+on: [push, pull_request]
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cd to repo path
+        run: cd $GITHUB_WORKSPACE
+      - name: Clone repo
+        uses: actions/checkout@master
+      - name: Set permissions
+        run: sudo chmod +x gradlew
+      - name: Run tests
+        run: ./gradlew test
